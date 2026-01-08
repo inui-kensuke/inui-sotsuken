@@ -140,5 +140,4 @@ void matrix_multiply_avx2(int A[N][N], int B[N][N], int C[N][N]) {
             }
         }
     }
-}
-*/
+}*/
