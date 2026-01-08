@@ -72,7 +72,6 @@ int main() {
 
     return 0;
 }
-
 /*AVX2
 #include <immintrin.h> // AVX用ヘッダ
 
@@ -106,8 +105,7 @@ void matrix_multiply_avx2(int A[N][N], int B[N][N], int C[N][N]) {
             }
         }
     }
-}
-*/
+}*/
 
 /*AVX512
 #include <immintrin.h> // AVX用ヘッダ
